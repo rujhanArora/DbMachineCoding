@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ee31837-567e-4983-8b9a-99e58f088162" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZNbGEarsQGATJRuOC7y7PqsZ6l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="DbMachineCoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DbMachineCoding" />
+      <module name="DbMachineCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DbMachineCoding" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ee31837-567e-4983-8b9a-99e58f088162" name="Default Changelist" comment="" />
+      <created>1584682400679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584682400679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1584684721707">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584684721707" />
+    <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584683912260">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1584683912260" />
+    <state width="1398" height="201" key="GridCell.Tab.0.bottom" timestamp="1584689008832">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584689008832" />
+    <state width="1398" height="201" key="GridCell.Tab.0.center" timestamp="1584689008831">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584689008831" />
+    <state width="1398" height="201" key="GridCell.Tab.0.left" timestamp="1584689008830">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584689008830" />
+    <state width="1398" height="201" key="GridCell.Tab.0.right" timestamp="1584689008831">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584689008831" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1584686855028">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584686855028" />
+  </component>
+</project>
